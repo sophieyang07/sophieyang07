@@ -1,9 +1,9 @@
 # Hi, I'm Sophie 👋
 
-I'm Sophie Yang (sophieyang07), an undergraduate studying Electrical Engineering and Computer Sciences at [UC Berkeley](https://eecs.berkeley.edu/). I enjoy building things that live on the web — especially fun, interactive projects tied to the fandoms I'm part of.
+I'm Sophie Yang, an undergraduate studying Electrical Engineering and Computer Sciences at [UC Berkeley](https://eecs.berkeley.edu/). I enjoy building things that live on the web — especially fun, interactive projects tied to the fandoms I'm part of.
 
 ### 🛠️ Tech Stack
-- **Languages**: JavaScript, Python, C++, learning Rust
+- **Languages**: JavaScript, TypeScript, PHP, Python, C++, learning Rust
 - **Interests**: Web development, UI/UX design, systems programming
 
 ### 🌱 Currently
